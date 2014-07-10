@@ -1,0 +1,3 @@
+name: sarrabiscos-t2
+main: com.tenjava.entries.sarrabiscos.t2.TenJava
+version: '${project.version}'
